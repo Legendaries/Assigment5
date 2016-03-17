@@ -1,0 +1,2 @@
+﻿  Source.cpp
+t:\daniellchurch.fvcc\documents\visual studio 2015\projects\project1\project1\source.cpp(19): error C2661: 'std::basic_istream<char,std::char_traits<char>>::getline': no overloaded function takes 0 arguments
